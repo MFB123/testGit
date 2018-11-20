@@ -6,8 +6,19 @@ public class testmain {
 		
 		System.out.println("aaa");
 	}
+
 public void sele() {
 		
 		System.out.println("ddd");
 	}
+
+	public void upda() {
+		
+		System.out.println("ccc");
+	}
+	public void dele() {
+	
+	System.out.println("bbb");
+}
+
 }
