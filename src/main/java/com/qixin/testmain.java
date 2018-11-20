@@ -20,5 +20,8 @@ public void sele() {
 	
 	System.out.println("bbb");
 }
-
+	public void bbb() {
+		
+	System.out.println("不同2");
+}
 }
