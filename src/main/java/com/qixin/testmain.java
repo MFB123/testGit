@@ -6,4 +6,8 @@ public class testmain {
 		
 		System.out.println("aaa");
 	}
+public void sele() {
+		
+		System.out.println("ddd");
+	}
 }
