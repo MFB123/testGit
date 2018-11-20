@@ -6,4 +6,8 @@ public class testmain {
 		
 		System.out.println("aaa");
 	}
+public void upda() {
+		
+		System.out.println("ccc");
+	}
 }
