@@ -30,6 +30,9 @@ public void sele() {
 		
 	System.out.println("fff");
 }
-
+	public void hot() {
+		
+	System.out.println("hot_fix分支");
+}
 
 }
