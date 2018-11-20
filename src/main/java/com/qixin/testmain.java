@@ -20,5 +20,9 @@ public void sele() {
 	
 	System.out.println("bbb");
 }
+	public void aaa() {
+		
+	System.out.println("fff");
+}
 
 }
